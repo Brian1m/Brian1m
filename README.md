@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web development and design
 - 💞️ I’m looking to collaborate on web development and tech issues
 - 📫 How to reach me gmail brianmwai688@gmail.com
-- 😄 Pronouns: pushing towards tech
+- 😄 Pronouns: him/he
+  
 - ⚡ Fun fact: tech is our future
 
 <!---
